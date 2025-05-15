@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+}
+
+footer{
+    background-color: azure;
+    color: rgb(27, 123, 207);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    text-align: center;
+    font-size: 0.5rem;
+}
